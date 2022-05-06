@@ -1,8 +1,6 @@
 ## Index
 
-### Fairness
-
-[Link](https://himanshi4693.github.io/MLFairness-Interpretability/Fairness.html)
+[### Fairness](https://himanshi4693.github.io/MLFairness-Interpretability/Fairness.html)
 
 <!-- ### Markdown
 
