@@ -9,7 +9,7 @@
  
  | First Header  | Second Header |
 | ------------- | ------------- |
-| ![](/Analysis/COMPAS_recidivism_race/EDA/racebyrecid.png  | width=100)  | Description...  |
+| ![](/Analysis/COMPAS_recidivism_race/EDA/racebyrecid.png | width=100)  | Description...  |
 
 ![](/Analysis/COMPAS_recidivism_race/EDA/racebyrecid.png)
 
