@@ -39,16 +39,8 @@ Prior arrests (categorical) distribution for only the non-recidivating individua
 ## Classification and fairness metrics
 
 
- | classification metrics for COMPAS scores  | classification metrics for Random Forest predictor |
+ | COMPAS scores  | Random Forest predictions |
 | ------------- | ------------- |
 | ![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASclassmetrics.png) |![](/Analysis/COMPAS_recidivism_race/METRICS/RFclassmetrics.png)  |
-
-![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASclassmetrics.png)
-
-Confusion matrix for COMPAS scores:
-
-![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASconfusionmatrix.png)
-
-Fainess metrics for COMPAS scores:
-
-![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASfairnessmetrics.png)
+| ![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASconfusionmatrix.png) |![](/Analysis/COMPAS_recidivism_race/METRICS/RFconfusionmatrix.png)  |
+| ![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASfairnessmetrics.png) |![](/Analysis/COMPAS_recidivism_race/METRICS/RFfairnessmetrics.png)  |
