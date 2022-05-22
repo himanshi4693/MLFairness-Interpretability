@@ -9,7 +9,6 @@
 
  ![](/Analysis/COMPAS_recidivism_race/EDA/racebyrecid.png) 
 
-Out of a total of 7214 individuals in COMPAS criminal risk assessment dataset published by Propublica, 3696 (51%) were African-American, 2454 (34%) were Caucasian, and 1064 (15%) belong to other races including Hispanic, Asian and Native Americans. 51% of the African-Americans were recorded for two year recidivism. For caucasians, this is 39% and for other races, 36%.  
 
 Distribution of prior arrests in the dataset:
 
