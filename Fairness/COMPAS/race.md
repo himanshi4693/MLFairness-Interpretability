@@ -23,14 +23,9 @@ Prior arrests (categorical) distribution:
 
 ![](/Analysis/COMPAS_recidivism_race/EDA/priorscatbyrace.png)
 
-Prior arrests (categorical) distribution for only the recidivating individuals within each race:
 
-![](/Analysis/COMPAS_recidivism_race/EDA/priorscatbyracerecid.png)
+| ![](/Analysis/COMPAS_recidivism_race/EDA/priorscatbyracerecid.png) |![](/Analysis/COMPAS_recidivism_race/EDA/priorscatbyracenonrecid.png)  |
 
-
-Prior arrests (categorical) distribution for only the non-recidivating individuals within each race:
-
-![](/Analysis/COMPAS_recidivism_race/EDA/priorscatbyracenonrecid.png)
 
  Recidivism status breakdown by prior arrests (categorical):
 
