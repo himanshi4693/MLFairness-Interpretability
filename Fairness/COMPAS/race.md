@@ -7,9 +7,6 @@
 
  Recidivism split for each race:
  
- | First Header  | Second Header |
-| ------------- | ------------- |
-| <img src= "/Analysis/COMPAS_recidivism_race/EDA/racebyrecid.png" width="100">  | Description...  |
 
 ![](/Analysis/COMPAS_recidivism_race/EDA/racebyrecid.png)
 
@@ -41,7 +38,10 @@ Prior arrests (categorical) distribution for only the non-recidivating individua
 
 ## Classification and fairness metrics
 
-Classification metrics for COMPAS scores:
+
+ | classification metrics for COMPAS scores  | classification metrics for Random Forest predictor |
+| ------------- | ------------- |
+| ![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASclassmetrics.png) |![](/Analysis/COMPAS_recidivism_race/METRICS/RFclassmetrics.png)  |
 
 ![](/Analysis/COMPAS_recidivism_race/METRICS/COMPASclassmetrics.png)
 
